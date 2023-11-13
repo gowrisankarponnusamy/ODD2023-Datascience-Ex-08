@@ -111,17 +111,46 @@ plt.show()
 ```
 
 # OUTPUT
-![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/3fd50ba0-7640-4f6e-82e5-60d0f67b4a7f)
-![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/d9adc176-4ecd-4077-970b-dcc1ed70f0fa)
-![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/423b351b-dca9-4cfd-bbe9-27dfaab2842e)
-![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/fb88de13-8ebf-447f-a0dd-b990f682dd54)
-![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/f026c081-3979-4e6d-98dd-8639e916221e)
-![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/465e9f62-422c-4e46-ba6a-f2a31417d7be)
-![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/216dea09-4170-4272-a0b3-ec307798788d)
-![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/32c9646f-1b00-436b-9b6d-cefce11458fb)
-![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/62c526d4-27d9-4af4-af9f-e2afce1a6a88)
-![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/ced98db3-bb81-410b-8007-ea44955eba2e)
+#1. Which Segment has Highest sales?
 
+<img width="230" alt="image" src="https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/3fd50ba0-7640-4f6e-82e5-60d0f67b4a7f">
+
+#2. Which City has Highest profit?
+
+<img width="230" alt="image" src="https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/d9adc176-4ecd-4077-970b-dcc1ed70f0fa">
+
+#3. Which ship mode is profitable?
+
+<img width="230" alt="image" src="https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/423b351b-dca9-4cfd-bbe9-27dfaab2842e">
+
+#4. Sales of the product based on region
+
+<img width="230" alt="image" src="https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/fb88de13-8ebf-447f-a0dd-b990f682dd54">
+
+#5. Find the relation between sales and profit
+
+<img width="230" alt="image" src="https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/f026c081-3979-4e6d-98dd-8639e916221e">
+
+#6. Find the relation between sales and profit based on the following category.
+#i) Segment
+
+<img width="230" alt="image" src="https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/465e9f62-422c-4e46-ba6a-f2a31417d7be">
+
+#ii) City
+
+<img width="230" alt="image" src="https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/216dea09-4170-4272-a0b3-ec307798788d">
+
+#iii) States
+
+<img width="230" alt="image" src="https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/32c9646f-1b00-436b-9b6d-cefce11458fb">
+
+#iv) Segment and Ship Mode
+
+<img width="230" alt="image" src="https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/62c526d4-27d9-4af4-af9f-e2afce1a6a88">
+
+#v) Segment, Ship mode and Region
+
+<img width="230" alt="image" src="https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/ced98db3-bb81-410b-8007-ea44955eba2e">
 
 # RESULT:
 Hence the data visualization method for the given dataset applied successfully.
